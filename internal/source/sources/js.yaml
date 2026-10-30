@@ -1,0 +1,26 @@
+id: js
+name: JavaScript
+provider: mdn
+upstream: https://github.com/mdn/content
+license: CC-BY-SA-2.5
+snapshot_commit: c6a89971a820ca6b76479a7ffc1b32c09aae2415
+select:
+  - "files/en-us/web/javascript/**"
+page_types:
+  - javascript-instance-method
+  - javascript-static-method
+  - javascript-instance-data-property
+  - javascript-instance-accessor-property
+  - javascript-static-data-property
+  - javascript-static-accessor-property
+  - javascript-class
+  - javascript-function
+  - javascript-object
+  - javascript-constructor
+  - javascript-operator
+  - javascript-statement
+  - javascript-error
+  - javascript-language-feature
+  - javascript-namespace
+  - javascript-global-property
+  - guide
